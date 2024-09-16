@@ -1,0 +1,20 @@
+JavaScript is a client side scripting language. 
+It is a event based programming language.
+
+- click , double click , right click.
+- mouse hover , mouse out
+- key press , key up
+- drag drop
+- load , unload
+- resize , scroll
+
+advantages of JS
+
+- Web development 
+- Desktop App development 
+- Mobile App development
+
+Two ways to implementing JS: 
+
+- Inpage JS
+- External JS
